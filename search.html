@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Filter And Search</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/search.css" />
+</head>
+<body>
+    <div class="container">
+        <!-- Back to Home Button -->
+        <div class="back-button">
+            <a href="index.html" class="btn-back">Quay về Trang chủ</a>
+        </div>
+        
+        <form class="filter">
+            <div class="item">
+                <label>Combo</label>
+                <select name="category">
+                    <option value="">---</option>
+                    <option value="Theo mùa">Theo mùa</option>
+                    <option value="Theo loại da">Theo loại da</option>
+                    <option value="work">Theo môi trường làm việc</option>
+                    <option value="Theo độ tuổi">Theo độ tuổi</option>
+                    <option value="newbie">Cơ Bản cho Người Mới Bắt Đầu</option>
+                </select>
+            </div>
+            <div class="item">
+                <label>Chi tiết</label>
+                <select name="color">
+                    <option value="">---</option>
+                    <option value="Mùa hè">Mùa hè</option>
+                    <option value="Mùa đông">Mùa đông</option>
+                    <option value="Da dầu">Da dầu</option>
+                    <option value="Da khô">Da khô</option>
+                    <option value="vp">Trong văn phòng</option>
+                    <option value="nt">Ngoài trời</option>
+                    <option value="20y">Dưới 20 tuổi</option>
+                    <option value="30y">Trên 30 tuổi</option>
+                </select>
+            </div>
+            <div class="item submit">
+                <button>Tìm kiếm</button>
+            </div>
+        </form>
+        
+        <div class="countResults">
+            Có <b id="count">5</b> Sản phẩm
+        </div>
+        <div id="list">
+            <!-- Product list will appear here -->
+        </div>
+    </div>
+    <script src="assets/js/search.js"></script>
+</body>
+</html>

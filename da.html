@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
+    <title>ManCare</title>
+
+    <!--
+    - favicon
+  -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/logo.ico"
+      type="image/x-icon"
+    />
+
+    <!--
+    - custom css link
+  -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <script src="./assets/js/script.js"></script>
+
+    <!--
+    - google font link
+  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    /> -->
+  </head>
+
+  <body>
+    <!--
+    - #MAIN
+  -->
+
+    <main>
+      <!--
+      - #SIDEBAR
+    -->
+
+      <aside class="sidebar" data-sidebar>
+        <div class="sidebar-info">
+          <figure class="avatar-box">
+            <img src="./assets/images/my-avatar.png" alt="Avatar" width="80" />
+          </figure>
+
+          <div class="info-content">
+            <h1 class="name" title="WELCOME">WELCOME</h1>
+          </div>
+
+          <button class="info_more-btn" data-sidebar-btn>
+            <span>Show Contacts</span>
+
+            <ion-icon name="chevron-down"></ion-icon>
+          </button>
+        </div>
+
+        <div class="sidebar-info_more">
+          <div class="separator"></div>
+
+          <ul class="contacts-list">
+            <li class="contact-item">
+              <div class="icon-box">
+                <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M64 112c-8.8 0-16 7.2-16 16l0 22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1l0-22.1c0-8.8-7.2-16-16-16L64 112zM48 212.2L48 384c0 8.8 7.2 16 16 16l384 0c8.8 0 16-7.2 16-16l0-171.8L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64l384 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64L64 448c-35.3 0-64-28.7-64-64L0 128z"/></svg>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Email</p>
+
+                <a href="#" class="contact-link">GTVT@example.com</a>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Điện thoại</p>
+
+                <a href="tel:+12133522795" class="contact-link"
+                  >+(84) 123456789</a
+                >
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <svg xmlns="http://www.w3.org/2000/svg" height="14" width="10.5" viewBox="0 0 384 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
+              </div>
+
+              <div class="contact-info">
+                <p class="contact-title">Địa chỉ</p>
+
+                <address>TP.Hồ Chí Minh</address>
+              </div>
+            </li>
+          </ul>
+
+          <div class="separator"></div>
+
+          <ul class="social-list">
+            <li class="social-item">
+              <a href="#" class="social-link">
+                <ion-icon name="logo-facebook"></ion-icon>
+              </a>
+            </li>
+
+            <li class="social-item">
+              <a href="#" class="social-link">
+                <ion-icon name="logo-twitter"></ion-icon>
+              </a>
+            </li>
+
+            <li class="social-item">
+              <a href="#" class="social-link">
+                <ion-icon name="logo-instagram"></ion-icon>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <!--
+      - #main-content
+    -->
+
+      <div class="main-content">
+        <!--
+        - #NAVBAR
+      -->
+
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+                <a href="index.html" class="navbar-link" data-nav-link>Trang chủ</a>
+              </li>
+
+            <li class="navbar-item">
+                <a href="da.html" class="navbar-link" data-nav-link>Da</a>
+              </li>
+
+              <li class="navbar-item">
+                <a href="nenDa.html" class="navbar-link" data-nav-link>Nền da</a>
+              </li>
+
+            <li class="navbar-item">
+              <a href="search.html" class="navbar-link" data-nav-link>Combo</a>
+            </li>
+            
+          </ul>
+        </nav>
+
+        <!--
+        - #ABOUT
+      -->
+
+        <article class="about active" data-page="trang chủ">
+            <header>
+                <h2 class="h2 article-title">Xác định loại da</h2>
+              </header>
+    
+              <!-- Da dầu -->
+    
+              <section class="timeline">
+                <div class="title-wrapper">
+                  <div class="icon-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                  </div>
+                  <h3 class="h3">Da dầu</h3>
+                </div>
+    
+                <ol class="timeline-list">
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Dấu hiệu nhận biết
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Những người có làn da dầu thường nhận thấy có nhiều bóng
+                        trên khuôn mặt của họ và có thể họ còn phải đối mặt với tình
+                        trạng mụn trứng cá nghiêm trọng.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Nguyên nhân
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da dầu do yếu tố di truyền và thay đổi nội tiết tố. Người
+                        có da dầu do di truyền sẽ có tuyến dầu hoạt động mạnh, sản
+                        xuất nhiều bã nhờn giúp da mềm và giữ ẩm. Lượng dầu này di
+                        chuyển từ biểu bì lên bề mặt da qua lỗ chân lông.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Cách chăm sóc da 
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Sử dụng kem dưỡng ẩm cho da dầu là cần thiết. Nhiều người
+                        nghĩ da dầu không cần dưỡng, nhưng thiếu ẩm sẽ làm da tiết
+                        dầu nhiều hơn. Hãy chọn kem dưỡng nhẹ, không chứa dầu để giữ
+                        da mềm mại và đủ ẩm.
+                      </span>
+                    </div>
+                  </li>
+                </ol>
+              </section>
+    
+              <!-- Da hỗn hợp -->
+    
+              <section class="timeline">
+                <div class="title-wrapper">
+                  <div class="icon-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                  </div>
+                  <h3 class="h3">Da hỗn hợp</h3>
+                </div>
+    
+                <ol class="timeline-list">
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Dấu hiệu nhận biết
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da hỗn hợp có nhiều loại da trên mặt, thường khô và bong
+                        tróc ở một số vùng, còn các vùng khác lại dầu.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Nguyên nhân
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Do sự mất cân bằng lipid-nước trên da, có chỗ sẽ khô quá
+                        mức gây bong tróc da và có chỗ sẽ tiết dầu nhiều quá mức.
+                        Việc mất cân bằng này có thể có nhiều nguyên nhân.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Cách chăm sóc da 
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Chìa khóa chăm sóc da hỗn hợp là tạo sự cân bằng, cung cấp
+                        độ ẩm cho vùng da khô mà không làm tăng độ bóng ở vùng da
+                        dầu. Nếu chăm sóc không đúng cách, da có thể bị tổn thương
+                        và lão hóa nhanh hơn.
+                      </span>
+                    </div>
+                  </li>
+                </ol>
+              </section>
+    
+              <!-- Da khô -->
+    
+              <section class="timeline">
+                <div class="title-wrapper">
+                  <div class="icon-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                  </div>
+                  <h3 class="h3">Da khô</h3>
+                </div>
+    
+                <ol class="timeline-list">
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Dấu hiệu nhận biết
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Làn da khô gây cảm giác căng, có thể xuất hiện mảng vảy
+                        hoặc bong tróc. Người có da khô thường có lỗ chân lông nhỏ
+                        và dễ bị nếp nhăn sớm cũng như kích ứng da thường xuyên hơn.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Nguyên nhân
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Nguyên nhân khô da có thể do nhiều yếu tố, trong đó di truyền ảnh hưởng đến lượng bã nhờn sản xuất từ tuyến dầu, giữ da mềm mại và dẻo dai. Nhiều người nghĩ da khô do thiếu độ ẩm, nhưng lượng nước trong da khô thường tương đương với da dầu. Do đó, việc thêm nước cho da khô có thể phản tác dụng trong điều trị.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Cách chăm sóc da 
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Thay đổi lối sống và thói quen có thể giảm ảnh hưởng đến da khô, như không tắm quá lâu hoặc dùng nước quá nóng. Sử dụng máy tạo ẩm không khí giúp da mềm mại, nhưng cần thường xuyên vệ sinh và thay nước để tránh vi khuẩn và nấm mốc phát triển.
+                    </div>
+                  </li>
+                </ol>
+              </section>
+    
+              <!-- Da thường -->
+    
+              <section class="timeline">
+                <div class="title-wrapper">
+                  <div class="icon-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                  </div>
+                  <h3 class="h3">Da thường</h3>
+                </div>
+    
+                <ol class="timeline-list">
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Dấu hiệu nhận biết
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da thường không quá nhờn hay khô, là loại da khỏe mạnh và lý tưởng, gần như không có khuyết điểm. Bề mặt da hồng hào, sáng đều, căng mịn và lỗ chân lông nhỏ, ít bị ảnh hưởng bởi mỹ phẩm và tác nhân môi trường.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Nguyên nhân
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Cách chăm sóc da 
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da thường là làn da khỏe mạnh và ít gặp vấn đề da liễu. Tuy nhiên, nếu không chăm sóc đúng cách hàng ngày, da có thể bị tổn thương và thay đổi, dẫn đến tình trạng khô, dầu hoặc nhạy cảm. Vì vậy, bạn cần chăm sóc da thường xuyên.
+                      </span>
+                    </div>
+                  </li>
+                </ol>
+              </section>
+    
+               <!-- Da nhạy cảm -->
+    
+               <section class="timeline">
+                <div class="title-wrapper">
+                  <div class="icon-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#FFD43B" d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                  </div>
+                  <h3 class="h3">Da nhạy cảm</h3>
+                </div>
+    
+                <ol class="timeline-list">
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Dấu hiệu nhận biết
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da nhạy cảm có thể có đặc điểm của da khô, da dầu hoặc da hỗn hợp, và thường do các tình trạng như hồng ban hoặc dị ứng. Vì vậy, bạn nên tránh các sản phẩm chăm sóc da chứa thành phần hóa học.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Nguyên nhân
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Da nhạy cảm là do các đầu dây thần kinh ở lớp biểu bì bị kích thích, khiến hàng rào bảo vệ tự nhiên của da bị tổn thương, làm cho da nhạy cảm hơn so với các loại da khác.
+                      </span>
+                    </div>
+                  </li>
+    
+                  <li class="timeline-item">
+                    <h4
+                      class="h4 timeline-item-title"
+                      onclick="toggleDropdown(this)"
+                    >
+                      Cách chăm sóc da 
+                    </h4>
+                    <div class="timeline-content">
+                      <span>
+                        - Chìa khóa chăm sóc da hỗn hợp là tạo sự cân bằng, cung cấp
+                        độ ẩm cho vùng da khô mà không làm tăng độ bóng ở vùng da
+                        dầu. Nếu chăm sóc không đúng cách, da có thể bị tổn thương
+                        và lão hóa nhanh hơn.
+                      </span>
+                    </div>
+                  </li>
+                </ol>
+              </section>
+        </article> 
+        
+</body>
+</html>

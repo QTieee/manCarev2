@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Da Mụn",
+        "image": "assets/images/daMun.jpg",
+        "nguyen_nhan": "<strong>Dầu thừa:</strong> Tăng tiết dầu làm bít tắc lỗ chân lông.<br><strong>Tắc nghẽn lỗ chân lông:</strong> Do tế bào chết và bụi bẩn tích tụ.<br><strong>Vi khuẩn:</strong> Vi khuẩn P.acnes phát triển trong điều kiện thiếu oxy.<br><strong>Thay đổi hormone:</strong> Kích thích tuyến dầu hoạt động mạnh.<br><strong>Chế độ ăn:</strong> Thực phẩm nhiều đường, dầu mỡ dễ gây ra mụn.",
+        "trieu_chung": "<strong>Mụn sần sùi:</strong> Xuất hiện các nốt mụn nhỏ trên bề mặt da.<br><strong>Có hột li ti:</strong> Các nốt mụn có thể có mủ hoặc đầu trắng, tạo cảm giác sần sùi.",
+        "cach_cham_soc": "<strong>Rửa mặt:</strong> Sử dụng sữa rửa mặt nhẹ nhàng để loại bỏ bụi bẩn và dầu thừa.<br><strong>Sản phẩm trị mụn:</strong> Áp dụng các sản phẩm chứa benzoyl peroxide hoặc salicylic acid để điều trị mụn.<br><strong>Dưỡng ẩm:</strong> Sử dụng kem dưỡng ẩm không chứa dầu để giữ ẩm cho da không làm bít tắc lỗ chân lông.<br><strong>Tránh nặn mụn:</strong> Không nặn mụn để tránh viêm nhiễm và để lại sẹo.",
+        "goi_y_san_pham": "<strong>Derma Forte</strong> là giải pháp hiệu quả giúp <em>ngăn ngừa và giảm mụn trứng cá</em>, mang lại làn da khỏe mạnh, mịn màng.<br><br><strong>Thành phần chính:</strong><br>• <strong>Benzoyl Peroxide:</strong> Kháng khuẩn, tiêu diệt vi khuẩn gây mụn.<br>• <strong>Salicylic Acid:</strong> Tẩy tế bào chết, làm sạch lỗ chân lông.<br>• <strong>Chiết xuất thiên nhiên:</strong> Làm dịu, giảm viêm da.<br><br><strong>Công dụng:</strong><br>- Giảm sưng đỏ, cải thiện tình trạng da mụn.<br>- Ngăn ngừa mụn tái phát, duy trì da sạch mụn.<br><br><strong>Hướng dẫn:</strong><br>Rửa mặt sạch, thoa nhẹ lên vùng mụn, dùng 1-2 lần/ngày.",
+        "suggested_products": [
+    {
+        "id": 1,
+        "name": "Derma Forte",
+        "image": "assets/images/dermaForte.webp",
+        "link": "https://nhathuoclongchau.com.vn/duoc-my-pham/derma-forte-15g-16714.html"
+    }
+]
+
+    },
+    {
+        "id": 2,
+        "name": "Da Rỗ",
+        "image": "assets/images/daRo.webp",
+        "nguyen_nhan": "<strong>Tích tụ bã nhờn:</strong> Làm tắc nghẽn lỗ chân lông.<br><strong>Vi khuẩn:</strong> Gây ra viêm nhiễm.<br><strong>Sự mất collagen:</strong> Gây mất độ đàn hồi của da.",
+        "trieu_chung": "<strong>Da rỗ:</strong> Xuất hiện các lỗ chân lông lớn hoặc có vết lõm do mụn trứng cá để lại.<br><strong>Tổn thương da:</strong> Do lão hóa hoặc các yếu tố bên ngoài.",
+        "cach_cham_soc": "<strong>Sử dụng sản phẩm:</strong> Chọn sản phẩm chứa retinoids và axit hyaluronic.<br><strong>Tẩy tế bào chết:</strong> Sử dụng các chất tẩy tế bào chết hóa học (như AHA, BHA) để cải thiện kết cấu da.",
+        "goi_y_san_pham": "<strong>+ La Roche-Posay Effaclar Duo (+)</strong><br>· <strong>Công dụng:</strong> Giảm mụn, làm sạch lỗ chân lông và cải thiện tình trạng da rỗ, cải thiện kết cấu da.<br>· <strong>Cách dùng:</strong> Sử dụng hàng ngày, thoa một lớp mỏng lên vùng da bị mụn hoặc toàn mặt.<br>· <strong>Giá:</strong> Khoảng 600.000 - 800.000 VNĐ.",
+        "suggested_products": [
+            {
+                "id": 1,
+                "name": "EFFACLAR DUO(+)",
+                "image": "assets/images/EFFACLARDUO.png",
+                "link": "https://www.larocheposay.vn/effaclar/effaclar-duo-plus"
+            }
+        ]
+        
+    },  
+    {
+        "id": 3,
+        "name":"Da Tàn Nhang",
+        "image": "assets/images/daTanNhang.jpg",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
+        "nguyen_nhan": "<strong>Tiếp xúc trực tiếp với ánh nắng mặt trời:</strong> UV gây hại cho da.<br><strong>Thay đổi nội tiết tố:</strong> Phụ nữ mang thai hoặc dùng thuốc tránh thai.<br><strong>Di truyền:</strong> Có tiền sử trong gia đình.<br><strong>Lão hóa:</strong> Da mất dần khả năng tự phục hồi.<br><strong>Lạm dụng mỹ phẩm:</strong> Sử dụng không đúng cách gây tổn thương.<br><strong>Rối loạn tâm lý:</strong> Stress có thể làm tăng sắc tố.",
+        "trieu_chung": "Xuất hiện các vết đen, nâu trên da, thường tập trung ở gò má, mũi và trán.",
+        "cach_cham_soc": "<strong>Giữ da luôn mát mẻ:</strong> Tránh nhiệt độ cao và hơi ẩm.<br><strong>Tẩy trang + srm mỗi ngày:</strong> Giúp làm sạch da hiệu quả.<br><strong>Bổ sung chất chống oxy hóa:</strong> Sử dụng thực phẩm và sản phẩm chứa vitamin C.<br><strong>Tẩy tế bào chết 2 lần/tuần:</strong> Giúp cải thiện kết cấu da.<br><strong>Sử dụng kem chống nắng mỗi ngày:</strong> Bảo vệ da khỏi tia UV.",
+        "goi_y_san_pham": "<strong>1. <strong>Neige White</strong><br>- <strong>Công dụng</strong>: Giảm đốm nám, tàn nhang, kích thích tế bào da mới.<br>- <strong>Thành phần</strong>: Chiết xuất thảo mộc quý hiếm; nổi bật: L-Cystine (240mg), Vitamin C (300mg).<br>- <strong>Cách dùng</strong>: 2 viên/lần, 2 lần/ngày.<br>- <strong>Giá</strong>: 1.000.000 - 1.800.000 đồng.<br><br>2. <strong>Nubest White</strong><br>- <strong>Công dụng</strong>: Giảm tàn nhang, bổ sung dưỡng chất cho da.<br>- <strong>Thành phần</strong>: Glutathione, L-cysteine, Alpha Lipoic Acid.<br>- <strong>Cách dùng</strong>: 2 viên/lần, 2 lần/ngày.<br>- <strong>Giá</strong>: 400.000 – 1.000.000 đồng.<br><br>3. <strong>Transino White C (Nhật Bản)</strong><br>- <strong>Công dụng</strong>: Loại bỏ tàn nhang, thâm sạm, giảm nếp nhăn.<br>- <strong>Thành phần</strong>: L-Cysteine, Vitamin E, Vitamin C, các vitamin nhóm B.<br>- <strong>Cách dùng</strong>: 2 viên/lần, 2 lần/ngày.<br>- <strong>Giá</strong>: 500.000 – 1.000.000 đồng.",
+        "suggested_products": [
+            {
+                "id": 4.1,
+                "name": "Neige White",
+                "image": "assets/images/neigeWhite.jpg",
+                "link": "https://nhathuocminhchau.com/vien-uong-trang-da-giam-nam-neige-white"
+            },
+            {
+                "id": 3.2,
+                "name": "NuBest White",
+                "image": "assets/images/NuBestWhite.jpg",
+                "link": "https://www.amazon.com/NuBest-White-Beautiful-Glutathione-L-Cysteine/dp/B08HCMG29D"
+            },
+            {
+                "id": 3.3,
+                "name": "Transino White C ",
+                "image": "assets/images/TransinoWhite C.webp",
+                "link": "https://chiaki.vn/transino-white-c-lam-trang-da-tu-nhien-tri-nam-va-tan-nhang-hieu-qua-tai-nha"
+            }
+        ]
+    }, 
+    {
+        "id": 4,
+        "name": "Da Lão Hoá",
+        "image": "assets/images/daLaoHoa.jpg",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
+        "nguyen_nhan": "<strong>Tuổi tác:</strong> Giảm sản xuất collagen và elastin.<br><strong>Ánh nắng:</strong> Tia UV gây hỏng tế bào da.<br><strong>Lối sống:</strong> Chế độ ăn uống không lành mạnh, hút thuốc, stress.",
+        "trieu_chung": "<strong>Nếp nhăn:</strong> Ở trán, quanh mắt và miệng.<br><strong>Da khô, xỉn màu:</strong> Thiếu nước và độ ẩm.<br><strong>Đốm nâu:</strong> Do tác động của ánh nắng.<br><strong>Mất độ đàn hồi:</strong> Da chảy xệ.",
+        "cach_cham_soc": "<strong>Dưỡng ẩm:</strong> Sử dụng kem dưỡng ẩm hàng ngày.<br><strong>Chống nắng:</strong> Dùng kem chống nắng với SPF phù hợp.<br><strong>Sản phẩm chống lão hóa:</strong> Chọn sản phẩm chứa retinoids, vitamin C.<br><strong>Ăn uống lành mạnh:</strong> Bổ sung trái cây, rau xanh.<br><strong>Ngủ đủ giấc:</strong> Giúp phục hồi da.",
+        "goi_y_san_pham": "Gợi Ý Sản Phẩm:</strong><br>1. <strong>CeraVe Hydrating Facial Cleanser</strong><br>   - <strong>Mô tả:</strong> Gel rửa mặt không tạo bọt, dành cho da khô, nhạy cảm.<br>   - <strong>Công dụng:</strong> Làm sạch nhẹ nhàng, giữ ẩm, không kích ứng.<br>   - <strong>Giá:</strong> 100-300k (88ml-473ml).<br><br>2. <strong>The Ordinary Hyaluronic Acid 2% + B5</strong><br>   - <strong>Mô tả:</strong> Serum cấp ẩm chuyên sâu, làm mềm và cải thiện kết cấu da.<br>   - <strong>Công dụng:</strong> Cấp nước, giảm nếp nhăn, phù hợp với mọi loại da.<br>   - <strong>Giá:</strong> 245k – 445k (30ml-60ml).<br><br>3. <strong>L'Oréal Paris Revitalift Anti-Aging Cream</strong><br>   - <strong>Mô tả:</strong> Kem dưỡng ẩm cho da lão hóa, cải thiện kết cấu và độ đàn hồi.<br>   - <strong>Công dụng:</strong> Giảm nếp nhăn, cung cấp độ ẩm.<br>   - <strong>Giá:</strong> 289k.<br><br>4. <strong>L'Oréal UV Defender Invisible Fluid SPF50+ PA++++</strong><br>   - <strong>Mô tả:</strong> Kem chống nắng dạng lỏng, bảo vệ da khỏi UV và ô nhiễm.<br>   - <strong>Công dụng:</strong> Bảo vệ tối đa, thẩm thấu nhanh.<br>   - <strong>Giá:</strong> 289k.",
+        "suggested_products": [
+            {
+                "id": 4.1,
+                "name": "Cerave Hydrating Cleanser",
+                "image": "assets/images/ceraVeHydrating.webp",
+                "link": "https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-thuong-va-da-kho-cerave-hydrating-cleanser-mb094520-236ml-36479.html"
+            },
+            {
+                "id": 4.2,
+                "name": "CeraVe Hydrating Facial Cleanser",
+                "image": "assets/images/ordinaryHyaluronic.jpg",
+                "link": "https://ordinary.com.vn/shop/tinh-chat-cap-nuoc-phuc-hoi-da-the-ordinary-hyaluronic-acid-2-b5/"
+            },
+            {
+                "id": 4.3,
+                "name": "Kem Chống Lão Hóa Da Ban Đêm L’Oreal Revitalift Night Cream 50Ml",
+                "image": "assets/images/clhBanDem.webp",
+                "link": "https://www.guardian.com.vn/kem-chong-nang-l-oreal-mong-nhe-bao-ve-toi-da-uv-defender-invisible-fluid-spf50-pa-50ml.html"
+            },
+            {
+                "id": 4.3,
+                "name": "L'Oreal Mỏng Nhẹ Bảo Vệ Tối Đa Uv Defender Invisible Fluid SPF50+ PA++++ 50Ml",
+                "image": "assets/images/kemChongNang.jpg",
+                "link": "https://www.guardian.com.vn/kem-chong-nang-l-oreal-mong-nhe-bao-ve-toi-da-uv-defender-invisible-fluid-spf50-pa-50ml.html"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lông Mọc Ngược",
+        "image": "assets/images/daRauMocNguoc.png",
+        "nguyen_nhan": "<strong>Râu mọc ngược:</strong> Gây viêm da, nổi mụn và đau đớn tại vùng râu, thường gặp ở nam giới khi cạo râu.",
+        "trieu_chung": "<strong>Các triệu chứng:</strong><br>- Xuất hiện các cục u nhỏ ở vị trí chân lông.<br>- Cảm giác ngứa, đau ở vùng da bị lông mọc ngược.<br>- Da sạm màu, hơi thâm.<br>- Có thể thấy đầu sợi lông mọc ngược vào bên trong da.",
+        "cach_cham_soc": "<strong>Chăm sóc:</strong><br>- Tránh cạo râu quá sát để giảm tình trạng lông mọc ngược.<br>- Sử dụng kem dưỡng và sản phẩm chống viêm để giảm kích ứng.<br>- Có thể cân nhắc sử dụng tẩy tế bào chết nhẹ để giúp lông mọc ra ngoài dễ hơn.",
+         "goi_y_san_pham": "<ol><li><strong>1. NIVEA Men Sensitive Shaving Gel</strong><br> - <strong>Công dụng:</strong> Giúp cạo râu dễ dàng, làm dịu da, ngăn ngừa kích ứng.<br> - <strong>Cách dùng:</strong> Thoa gel lên vùng râu trước khi cạo.<br> - <strong>Giá:</strong> 100.000 - 150.000 VNĐ.</li><li><strong>2. Neutrogena Oil-Free Acne Wash</strong><br> - <strong>Công dụng:</strong> Làm sạch, tẩy tế bào chết, thông thoáng lỗ chân lông.<br> - <strong>Cách dùng:</strong> Sử dụng hàng ngày, massage và rửa sạch.<br> - <strong>Giá:</strong> 200.000 - 300.000 VNĐ.</li></ol>",
+         "suggested_products": [
+            {
+                "id": 4.1,
+                "name": "NIVEA Men Sensitive Shaving Gel",
+                "image": "assets/images/ShavingGel.webp",
+                "link": "https://dinhouse.vn/products/gel-cao-rau-nivea-men-shaving-gel-sensitive"
+            },
+            {
+                "id": 4.2,
+                "name": "Neutrogena Oil-Free Acne Wash",
+                "image": "assets/images/neutrogena.png",
+                "link":"https://hasaki.vn/san-pham/sua-rua-mat-neutrogena-ngan-ngua-mun-175ml-101985.html"
+            }
+        ]
+    },    
+    {
+        "id": 6,
+        "name": "Bí Tắc Lỗ Chân Lông",
+        "image": "assets/images/daTatLoChanLong.webp",
+        "description": "Bí tắc lỗ chân lông là tình trạng lỗ chân lông bị tắc nghẽn do bụi bẩn, dầu thừa và tế bào chết, dẫn đến nhiều vấn đề về da.",
+        "nguyen_nhan": "<strong>Hút thuốc lá:</strong> Gây hại cho da và làm lỗ chân lông to.<br><strong>Quên hoặc không có thói quen vệ sinh vỏ gối sạch sẽ:</strong> Tích tụ bụi bẩn và dầu.<br><strong>Thói quen chạm tay lên mặt:</strong> Gây lây lan vi khuẩn.<br><strong>Ảnh hưởng từ ánh nắng mặt trời:</strong> Tăng cường sản xuất dầu.<br><strong>Thường xuyên áp mặt vào điện thoại:</strong> Chứa vi khuẩn, bụi bẩn.<br><strong>Không có thói quen làm sạch da thường xuyên:</strong> Dễ dàng tích tụ bụi bẩn.<br><strong>Không tẩy tế bào chết cho da:</strong> Dẫn đến bít tắc lỗ chân lông.<br><strong>Dùng kem ẩm không phù hợp:</strong> Có thể gây bí tắc.<br><strong>Không tẩy trang trước khi ngủ:</strong> Giữ lại bụi bẩn và mỹ phẩm trên da.<br><strong>Nặn mụn làm tắc lỗ chân lông:</strong> Gây viêm nhiễm.",
+        "cach_cham_soc": "<strong>Tẩy tế bào chết da 1-2 lần/tuần:</strong> Giúp làm sạch lỗ chân lông.<br><strong>Sử dụng kem chống nắng và che kín khi ra nắng:</strong> Bảo vệ da khỏi tác hại của UV.<br><strong>Tạo thói quen tẩy trang mỗi ngày trước khi đi ngủ:</strong> Làm sạch bụi bẩn và mỹ phẩm.<br><strong>Tránh chạm vào mặt:</strong> Giảm lây lan vi khuẩn.<br><strong>Sử dụng các sản phẩm không gây dị ứng:</strong> Giúp bảo vệ da.",
+        "trieu_chung": "Lỗ chân lông bị tắc nghẽn có thể trông to hơn bình thường hoặc có cảm giác mấp mô.",
+        "goi_y_san_pham": ""
+    },   
+    {
+        "id": 7,
+        "name": "Da Mụn Viêm",
+        "image": "assets/images/daMunViem.jpg",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
+        "nguyen_nhan": "<strong>Dầu thừa:</strong> Tắc nghẽn lỗ chân lông.<br><strong>Vi khuẩn:</strong> Propionibacterium acnes.<br><strong>Hormone:</strong> Thay đổi hormone kích thích mụn.<br><strong>Stress và chế độ ăn:</strong> Có thể làm tình trạng nặng hơn.",
+        "trieu_chung": "<strong>Mụn đỏ, sưng:</strong> (mụn bọc).<br><strong>Mụn mủ:</strong> Có đầu trắng.<br><strong>Da nhạy cảm:</strong> Nóng.",
+        "cach_cham_soc": "<strong>Sản phẩm trị mụn:</strong> Benzoyl peroxide, salicylic acid.<br><strong>Dưỡng ẩm nhẹ:</strong> Kem không chứa dầu.<br><strong>Tránh nặn mụn:</strong> Có thể làm viêm nặng hơn.<br><strong>Giữ da sạch:</strong> Rửa mặt hai lần/ngày.",
+        "goi_y_san_pham": "<strong>1. Klenzit C</strong> - Gel trị mụn chứa adapalene và clindamycin, hiệu quả cho mụn viêm.<br><br><strong>Thành phần chính:</strong><br>• <strong>Adapalene (0.1%):</strong> Ngăn ngừa tắc nghẽn lỗ chân lông.<br>• <strong>Clindamycin (1%):</strong> Tiêu diệt vi khuẩn gây mụn.<br><br><strong>Công dụng:</strong><br>- Giảm mụn viêm và ngăn ngừa tái phát.<br>- Cải thiện kết cấu da.<br><br><strong>Cách sử dụng:</strong><br>Rửa mặt sạch, thoa gel lên vùng mụn. Sử dụng 1-2 lần/ngày.<br><br><strong>2. Benzac AC</strong> - Sản phẩm điều trị mụn viêm từ nhẹ đến trung bình.<br><br><strong>Thành phần chính:</strong><br>• <strong>Benzoyl peroxide:</strong> Diệt vi khuẩn C. acnes trên da và bên trong nang lông.<br><br><strong>Công dụng:</strong><br>- Điều trị mụn viêm, giảm sưng, giảm đau và hạn chế thâm sẹo.<br><br><strong>Cách sử dụng:</strong><br>Bôi một lớp mỏng lên vùng da cần điều trị, mỗi ngày 1 lần vào buổi tối.",
+        "suggested_products": [
+            {
+                "id": 7.1,
+                "name": "Klenzit - C",
+                "image": "assets/images/klenzit.webp",
+                "link": "https://nhathuoclongchau.com.vn/thuoc/klenzit-c-15g-3329.html"
+            },
+            {
+                "id": 7.2,
+                "name": "Benzoyl Peroxide Gel IP 5% Bezac AC Gel 30g ",
+                "image": "assets/images/benzoylPeroxide.webp",
+                "link": "https://nhathuocminhchau.com/benzoyl-peroxide-gel-ip-5-bezac-ac-gel-30g-gel-tri-mun"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name":"Mụn Đầu Đen",
+        "image": "assets/images/daMunDauDen.jpg",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
+        "nguyen_nhan": "Tích tụ dầu, tế bào chết và vi khuẩn trong lỗ chân lông.",
+        "trieu_chung": "Xuất hiện các điểm đen nhỏ trên da.",
+        "cach_cham_soc": "Sử dụng sản phẩm chứa salicylic acid hoặc benzoyl peroxide và tẩy tế bào chết định kỳ.",
+         "goi_y_san_pham": "<strong>1. COSRX BHA Blackhead Power Liquid</strong><br>· <strong>Công dụng:</strong> Tẩy tế bào chết, làm sạch lỗ chân lông và giảm mụn đầu đen.<br>· <strong>Cách dùng:</strong> Thoa một lượng vừa đủ lên mặt sau khi rửa sạch và dùng toner.<br>· <strong>Giá:</strong> Khoảng 400.000 - 600.000 VNĐ.",
+         "suggested_products": [
+            {
+                "id": 7.1,
+                "name": "Cosrx BHA Blackhead Power Liquid 50ml",
+                "image": "assets/images/BHA.webp",
+                "link": "https://thegioiskinfood.com/products/cosrx-bha-blackhead-power-liquid-100ml"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name":" Da Mụn Ẩn",
+        "image": "assets/images/daMunAn.webp",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
+        "nguyen_nhan": "<strong>Rối loạn nội tiết tố:</strong> Gây ra sự thay đổi về dầu và bã nhờn trên da.<br><strong>Vệ sinh da không đúng cách:</strong> Dễ tích tụ bụi bẩn và dầu thừa.<br><strong>Chế độ sinh hoạt không lành mạnh:</strong> Thiếu ngủ, căng thẳng.<br><strong>Sử dụng mỹ phẩm kém chất lượng:</strong> Có thể gây bí tắc lỗ chân lông.<br><strong>Tác động môi trường:</strong> Khói bụi, ô nhiễm.",
+        "trieu_chung": "<strong>Phát hiện các nốt li ti dưới da:</strong> Mụn ẩn nhỏ và khó thấy.<br><strong>Cảm giác hơi đau, khó chịu trên và xung quanh nốt mụn:</strong> Khó chịu nhẹ.<br><strong>Nốt có dấu hiệu sưng, to ra, viêm, hơi đỏ:</strong> Mụn ẩn có thể phát triển thành nhân trứng cá hoặc mụn viêm.",
+        "cach_cham_soc": "<strong>Xây dựng chế độ ăn lành mạnh:</strong> Bổ sung vitamin và khoáng chất.<br><strong>Áp dụng lối sống điều độ:</strong> Ngủ đủ giấc, giảm căng thẳng.<br><strong>Vệ sinh, chăm sóc da:</strong> Rửa mặt đúng cách và sử dụng sản phẩm phù hợp.",
+        "goi_y_san_pham": "<strong>1. Klenzit Ms</strong><br>· <strong>Thành phần:</strong> Adapalene 1mg/g, Clindamycin.<br>· <strong>Công dụng:</strong> Giảm sừng hóa, thông thoáng lỗ chân lông, kháng viêm, tiêu diệt vi khuẩn gây mụn, hỗ trợ giảm thâm.<br>· <strong>Cách dùng:</strong> Thoa lên nốt mụn sau khi vệ sinh mặt, sáng và tối.<br>· <strong>Giá:</strong> 90.000 – 160.000 đồng.<br><br><strong>2. Megaduo</strong><br>· <strong>Thành phần:</strong> Azelaic Acid, Glycolic Acid, Squalane.<br>· <strong>Công dụng:</strong> Ngăn chặn vi khuẩn gây mụn, loại bỏ tế bào chết, ngăn ngừa thâm mụn.<br>· <strong>Cách dùng:</strong> Thoa lên nốt mụn sau khi vệ sinh mặt, sáng và tối.<br>· <strong>Giá:</strong> 100.000 – 160.000 đồng.<br><br><strong>3. Differin</strong><br>· <strong>Thành phần:</strong> Adapalene 0,1%.<br>· <strong>Công dụng:</strong> Giảm sừng hóa, giảm viêm, khô nhanh cồi mụn, trị mụn ẩn trên mặt, ngực và lưng.<br>· <strong>Cách dùng:</strong> Thoa lên nốt mụn sau khi vệ sinh mặt, sáng và tối.<br>· <strong>Giá:</strong> 350.000 – 450.000 đồng.",
+        "suggested_products": [
+            {
+                "id": 4.1,
+                "name": "Klenzit Ms",
+                "image": "assets/images/KlenzitMS.webp",
+                "link": "https://nhathuoclongchau.com.vn/thuoc/klenzit-15g-3330.html"
+            },
+            {
+                "id": 3.2,
+                "name": "Megaduo",
+                "image": "assets/images/Megaduo.webp",
+                "link": "https://nhathuoclongchau.com.vn/duoc-my-pham/megaduo-gel-15g-16664.html"
+            },
+            {
+                "id": 3.3,
+                "name": "Differin",
+                "image": "assets/images/Galderma.webp",
+                "link": "https://nhathuoclongchau.com.vn/thuoc/differin-0130mg-17372.html"
+            }
+        ]
+    }
+
+]
